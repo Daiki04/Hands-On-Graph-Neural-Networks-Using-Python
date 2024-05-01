@@ -1,3 +1,8 @@
+### notebook
+|チャプター|ファイル|Colab|
+|:----|:----|:----:|
+|Chapter|[chapter2.ipynb](https://github.com/Daiki04/Hands-On-Graph-Neural-Networks-Using-Python/blob/main/Chapter02/chapter2.ipynb)|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Daiki04/Hands-On-Graph-Neural-Networks-Using-Python/blob/main/Chapter02/chapter2.ipynb)|
+
 ### [Packt Conference : Put Generative AI to work on Oct 11-13 (Virtual)](https://packt.link/JGIEY)
 
 <b><p align='center'>[![Packt Conference](https://hub.packtpub.com/wp-content/uploads/2023/08/put-generative-ai-to-work-packt.png)](https://packt.link/JGIEY)</p></b> 
